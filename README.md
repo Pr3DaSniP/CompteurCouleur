@@ -1,5 +1,9 @@
 # Compteur de couleur
 
+![Language](https://img.shields.io/badge/Language-C++-blue.svg)
+![Librairies](https://img.shields.io/badge/Librairies-OpenCV-green.svg)
+![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%202022-red.svg)
+
 Ce jeu est un programme qui permet de compter les couleurs présent dans une image (vidéo ici), et de déplacer un curseur en fonction de la couleur dominante. Le but est de casser des points avec le curseur.
 
 Source: https://youtu.be/aMbPyFoGxdU?si=1x6opiB12yPkK7T1&t=1901
